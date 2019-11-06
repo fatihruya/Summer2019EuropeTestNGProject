@@ -1,8 +1,7 @@
 package com.cybertek.tests.day3_webelement_intro;
 
-public class testadd {
-
+public class day3test {
     public static void main(String[] args) {
-        System.out.println("testadd");
+        System.out.println("day3");
     }
 }
