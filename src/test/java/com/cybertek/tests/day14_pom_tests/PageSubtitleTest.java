@@ -36,6 +36,6 @@ public class PageSubtitleTest extends TestBase {
 
         CalendarEventsPage calendarEventsPage = new CalendarEventsPage();
 
-        Assert.assertEquals(dashboardPage.getPageSubTitle(),"Calendar Events","Verify subtitles");
+        Assert.assertEquals(calendarEventsPage.getPageSubTitle(),"Calendar Events","Verify subtitles");
     }
 }

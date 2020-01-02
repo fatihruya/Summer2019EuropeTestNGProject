@@ -27,6 +27,8 @@ public class AttributeTest {
 
         //outerHTML return that full html of that element
         System.out.println(radioButton.getAttribute("outerHTML"));
+        System.out.println(radioButton.getAttribute("innerHTML"));
+
 
     }
 }
